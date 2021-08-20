@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidisid7med
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... nodejs, 
+- 🌱 I’m currently learning ... Front-End, 
 - 💞️ I’m looking to collaborate on ... project or job anything
 - 📫 How to reach me ... +22231141312 | sidi.sid7med@gmail.com
 
