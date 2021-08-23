@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidisid7med
+- 👋 Hi, I’m Sidi Sid'Ahmed
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Front-End, 
 - 💞️ I’m looking to collaborate on ... project or job anything
